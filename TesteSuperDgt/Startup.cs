@@ -31,7 +31,7 @@ namespace TesteSuperDgt
             
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Backoffice - Oi Auditoria de Vendas", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Teste Super Digital", Version = "v1" });
             });
         }
         
