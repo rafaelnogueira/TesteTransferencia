@@ -1,0 +1,17 @@
+C:\Users\rafael.nogueira\source\repos\TesteSuperDgt\Identity\bin\Debug\netcoreapp2.1\Identity.deps.json
+C:\Users\rafael.nogueira\source\repos\TesteSuperDgt\Identity\bin\Debug\netcoreapp2.1\Identity.dll
+C:\Users\rafael.nogueira\source\repos\TesteSuperDgt\Identity\bin\Debug\netcoreapp2.1\Identity.pdb
+C:\Users\rafael.nogueira\source\repos\TesteSuperDgt\Identity\obj\Debug\netcoreapp2.1\Identity.csproj.CoreCompileInputs.cache
+C:\Users\rafael.nogueira\source\repos\TesteSuperDgt\Identity\obj\Debug\netcoreapp2.1\Identity.AssemblyInfoInputs.cache
+C:\Users\rafael.nogueira\source\repos\TesteSuperDgt\Identity\obj\Debug\netcoreapp2.1\Identity.AssemblyInfo.cs
+C:\Users\rafael.nogueira\source\repos\TesteSuperDgt\Identity\obj\Debug\netcoreapp2.1\Identity.dll
+C:\Users\rafael.nogueira\source\repos\TesteSuperDgt\Identity\obj\Debug\netcoreapp2.1\Identity.pdb
+C:\Users\rafael.nogueira\source\repos\TesteSuperDgt\Identity\obj\Debug\netcoreapp2.1\Identity.csprojAssemblyReference.cache
+E:\Projetos\Entrevistas\TesteSuperDgt\Identity\bin\Debug\netcoreapp2.1\Identity.deps.json
+E:\Projetos\Entrevistas\TesteSuperDgt\Identity\bin\Debug\netcoreapp2.1\Identity.dll
+E:\Projetos\Entrevistas\TesteSuperDgt\Identity\bin\Debug\netcoreapp2.1\Identity.pdb
+E:\Projetos\Entrevistas\TesteSuperDgt\Identity\obj\Debug\netcoreapp2.1\Identity.csproj.CoreCompileInputs.cache
+E:\Projetos\Entrevistas\TesteSuperDgt\Identity\obj\Debug\netcoreapp2.1\Identity.AssemblyInfoInputs.cache
+E:\Projetos\Entrevistas\TesteSuperDgt\Identity\obj\Debug\netcoreapp2.1\Identity.AssemblyInfo.cs
+E:\Projetos\Entrevistas\TesteSuperDgt\Identity\obj\Debug\netcoreapp2.1\Identity.dll
+E:\Projetos\Entrevistas\TesteSuperDgt\Identity\obj\Debug\netcoreapp2.1\Identity.pdb
